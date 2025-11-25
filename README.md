@@ -1,7 +1,4 @@
 # 256bits-to-128k-rank-4bit-metadata
-fix 256-bit arrays to 128k rank using only 4-bit metadata.
-
-# 256bits-to-128k-rank-4bit-metadata
 Deterministic Balanced Encoding & Fully Reversible Rank-Based Mapping for 256-bit Data
 
 This project provides a reversible encoding system that transforms arbitrary 256-bit binary data 
