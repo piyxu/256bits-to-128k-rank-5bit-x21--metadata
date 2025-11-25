@@ -1,4 +1,5 @@
 # 256bits-to-128k-rank-4bit-metadata
+Save the date. First in the world.
 Deterministic Balanced Encoding & Fully Reversible Rank-Based Mapping for 256-bit Data
 
 This project provides a reversible encoding system that transforms arbitrary 256-bit binary data 
