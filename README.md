@@ -16,6 +16,10 @@ operations on the combinational space C(256,128).
 - No external dependencies beyond Python standard library
 
 ---
+## Reports.txt
+- 000: K_ori=126  K_enc=128  K_dec=126  SAME=TRUE
+- 001: K_ori=124  K_enc=128  K_dec=124  SAME=TRUE
+- 002: K_ori=122  K_enc=128  K_dec=122  SAME=TRUE
 
 ## System Architecture
 
