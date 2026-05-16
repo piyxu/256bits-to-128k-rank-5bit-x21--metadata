@@ -1,5 +1,5 @@
 # -------------------------------------------------
-# encode.py - 256/128k test
+# decodee.py - 256/128k test
 # MIT LICENSE
 # MESUT ERTURHAN
 # https://github.com/piyxu/256bits-to-128k-rank-5bit-x21--metadata/
