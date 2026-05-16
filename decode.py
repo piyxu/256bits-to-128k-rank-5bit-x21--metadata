@@ -2,8 +2,8 @@
 # decode.py - 256/128k test
 # MIT LICENSE
 # MESUT ERTURHAN
-# https://github.com/piyxu/256bits-to-128k-rank-5bit-x21--metadata/
-# Old address piyxu/256bits-to-128k-rank-4bit-metadata/
+# New address: https://github.com/piyxu/256bits-to-128k-rank-5bit-x21--metadata/
+# Old address: https://github.com/piyxu/256bits-to-128k-rank-4bit-metadata/
 # -------------------------------------------------
 
 from math import comb
