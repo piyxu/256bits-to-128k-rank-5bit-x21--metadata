@@ -70,8 +70,8 @@ def main():
         for idx, (ori, enc) in enumerate(zip(ori_lines, enc_lines)):
 
             # encode.txt: 4 bit meta + 256 bit balanced
-            meta_bin = enc[:4]
-            bits_str = enc[4:]
+            meta_bin = enc[:5]
+            bits_str = enc[5:]
 
             m = int(meta_bin, 2)
             bits256 = [int(b) for b in bits_str]
