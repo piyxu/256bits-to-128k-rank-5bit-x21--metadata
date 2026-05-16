@@ -73,7 +73,6 @@ def encode256(R: int):
 # -------------------------------------------------
 
 def main():
-    rng = random.Random()
     num_tests = 50  # increase/decrease if you like
 
     with open("originals.txt", "w") as f_ori, \
