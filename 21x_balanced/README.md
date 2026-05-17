@@ -325,22 +325,6 @@ metadata distribution tests
 statistical analysis of balanced binary representations
 ```
 
-It should not be presented as normal file compression.
-
-A better description is:
-
-```text
-reversible pool-based balanced rank coding
-```
-
-or:
-
-```text
-pool-based constant-weight coding for 256-bit values
-```
-
----
-
 ## 13. License
 
 MIT License
