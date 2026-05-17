@@ -1,3 +1,5 @@
+# “I was testing with the files and accidentally uploaded them to the wrong branch.”
+
 # 3x Weighted Balanced Rank Format
 
 This folder is a 3-pool weighted copy of the 21x balanced version.
