@@ -2,7 +2,7 @@
 # encode.py - 256/128k test
 # MIT LICENSE
 # MESUT ERTURHAN
-# https://github.com/piyxu/256bits-to-128k-rank-5bit-x21--metadata/21x_balanced
+# https://github.com/piyxu/256bits-to-128k-rank-5bit-x21--metadata/3x
 # -------------------------------------------------
 
 from math import comb
